@@ -1,1 +1,1 @@
-ln -s .fonts ../fonts
+ln -s dotfiles/.fonts ../fonts
